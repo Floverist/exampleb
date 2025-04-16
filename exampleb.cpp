@@ -2,5 +2,5 @@
 #include <fmt/core.h>
 
 void exampleB() {
-    fmt::print("\nexample{}!\n", 'B'");
+    fmt::print("\nexample{}!\n", 'B');
 }
